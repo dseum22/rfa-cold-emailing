@@ -1,5 +1,5 @@
 # rfa-coldemailing
-This GApps script sends emails to shool contacts listed in a Google spreadsheet.
+This Google Apps Script sends emails to shool contacts listed in a Google spreadsheet.
 
 Spreadsheet inputs: School name, Principal name, Principal email, Email type
 There are three different emails that give: Email subject, Email body
